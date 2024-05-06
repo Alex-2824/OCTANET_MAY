@@ -1,7 +1,4 @@
 The landing page on a laptop screen
 
-![Screenshot 2024-05-02 191410](https://github.com/Alphy777/OCTANET_MAY/assets/126680403/976f4fbe-b621-4428-a893-b0f7d5ece476)
+![Screenshot 2024-05-02 191410](https://i.ibb.co/68H7c2n/Whats-App-Image-2024-05-06-at-1-02-22-PM.jpg)
 
-Responsiveness of the landing page
-
-https://github.com/Alphy777/OCTANET_MAY/assets/126680403/8c9670e6-d8ac-4b1e-97b4-30c59957772b
